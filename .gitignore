@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment and secrets
+.env
+.venv/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
